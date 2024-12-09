@@ -1,4 +1,4 @@
-# Visualization of CNNs (Convolutons Neural Network)
+# Visualization of CNNs (Convolutional Neural Network)
 Visualize how a machine learns. It's not magic, it's MATHS.
 
 ### references
