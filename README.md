@@ -1,5 +1,5 @@
-# ai_viz
-Visualize how AI works. It's not magic, it's MATHS.
+# Visualization of CNNs (Convolutons Neural Network)
+Visualize how a machine learns. It's not magic, it's MATHS.
 
 ### references
 - [yt](https://www.youtube.com/shorts/gqsYY4LKwFI)
